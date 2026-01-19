@@ -3,8 +3,8 @@
 export const ourTracks = [
   {
     id: 1,
-    category: "UI/UX Design",
-    title: "UI/UX Design for Beginners",
+    category: "Class 10th Maths Test",
+    title: "Class 10th Maths Test",
     price: 98,
     rating: 5,
     duration: "22hr 30min",
@@ -17,7 +17,7 @@ export const ourTracks = [
     id: 2,
     category: "UI/UX Design",
     title: "UI/UX Design for Beginners",
-    price: 98,
+    price: 50,
     rating: 5,
     duration: "22hr 30min",
     lessons: 34,
