@@ -28,7 +28,7 @@ export const ourTracks = [
   {
     id: 3,
     category: "UI/UX Design",
-    title: "UI/UX Design for Beginners",
+    title: "The test Will open",
     price: 98,
     rating: 5,
     duration: "22hr 30min",
