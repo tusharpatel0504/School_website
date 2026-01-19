@@ -16,7 +16,7 @@ export const ourTracks = [
   {
     id: 2,
     category: "UI/UX Design",
-    title: "UI/UX Design for Beginners",
+    title: "Class 12th Maths Test",
     price: 50,
     rating: 5,
     duration: "22hr 30min",
